@@ -18,57 +18,57 @@ export default function Footer2() {
               <ul>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    About
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Home
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Contact Us
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Book Now
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Newsletter
                   </Link>
                 </li>
               </ul>
             </div>
             <div className="col-span-6 text-center md:text-left md:col-span-3">
-              <p className="pb-1 text-lg font-medium">Category</p>
+              <p className="pb-1 text-lg font-medium">Legal</p>
               <ul>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Terms of Service
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Privacy Policy
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Social Handles
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Follow
                   </Link>
                 </li>
                 <li>
                   <Link to="#" className="hover:dark:text-gray-400">
-                    Link
+                    Subscribe
                   </Link>
                 </li>
               </ul>
